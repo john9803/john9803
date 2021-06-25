@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Devi%20Johns%20W&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Devi%20John%20Land&fontSize=90&animation=fadeIn)
