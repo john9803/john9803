@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=rount-square&logo=C++&logoColor=white"/>      
 <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>      
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803)](https://github.com/john9803/github-readme-stats)
