@@ -1,4 +1,4 @@
-###  Salvatore Archive ⚡
+####  ⚡Salvatore Archive⚡
 
 <!--
 **john9803/john9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Stats
+
 ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=radical)     
 ### Technology Stacks
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=round-square&logo=Keras&logoColor=white"/>        
