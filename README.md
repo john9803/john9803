@@ -1,5 +1,5 @@
 ##  ⚡Salvatore Archive⚡
-![](https://github.com/john9803/My-Garage/blob/main/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%8C%E1%85%B5.jpeg?raw=true "It is me")
+
 <!--
 **john9803/john9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### My Stats
 
-![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=radical)     
+![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=radical)![](https://github.com/john9803/My-Garage/blob/main/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%8C%E1%85%B5.jpeg?raw=true "It is me") 
 ### Technology Stacks
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
