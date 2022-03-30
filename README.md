@@ -1,4 +1,4 @@
-####  ⚡Salvatore Archive⚡
+##  ⚡Salvatore Archive⚡
 
 <!--
 **john9803/john9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
