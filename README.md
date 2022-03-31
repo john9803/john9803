@@ -1,5 +1,5 @@
 ##  ⚡Salvatore Archive⚡
-<hr>
+
 
 ### My Stats
 
