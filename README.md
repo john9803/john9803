@@ -1,7 +1,7 @@
-##  ⚡Salvatore Archive⚡
+#  ⚡Salvatore Archive⚡
 
 
-### My Stats
+## My Stats
 
 <hr>
 
@@ -11,7 +11,7 @@
 
 
 
-### Technology Stacks
+## Technology Stacks
 <hr>
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
