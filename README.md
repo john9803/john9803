@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Technology Stacks
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=round-square&logo=Keras&logoColor=white"/>        
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
