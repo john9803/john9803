@@ -3,7 +3,7 @@
 
 ## My Stats
 
-<hr>
+
 
 ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=gold)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803)](https://github.com/john9803/github-readme-stats)
 
@@ -12,7 +12,7 @@
 
 
 ## Technology Stacks
-<hr>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=round-square&logo=Keras&logoColor=white"/>
