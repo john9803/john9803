@@ -1,7 +1,4 @@
 #  ⚡Salvatore Archive⚡
-
-
-My Stats
 <br><br>
 ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=gold)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803)](https://github.com/john9803/github-readme-stats)
 
