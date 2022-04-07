@@ -1,7 +1,7 @@
 
 Hi, welcome to Salvatore Archiving Github.    
-These are my works, and Hope you got intersest in my works!
-Have a WonderfulDay~!
+These are my works, and Hope you got intersest in my works!     
+Have a WonderfulDay~!💁
 
 
 <br><br>
