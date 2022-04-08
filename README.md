@@ -1,7 +1,7 @@
 
 Hi, welcome to Salvatore Archiving Github.    
-These are my works, and Hope you got intersest in my works!     ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=dark)
-Have a WonderfulDay~!💁     
+These are my works, and Hope you got intersest in my works!     
+Have a WonderfulDay~!💁![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=dark)     
 
 
 <br><br>
