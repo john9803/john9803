@@ -2,11 +2,11 @@
 Hi, welcome to Salvatore Archiving Github.    
 These are my works, and Hope you got intersest in my works!     
 Have a WonderfulDay~!💁     
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=john9803)](https://solved.ac/john9803)
+
 
 <br><br>
-![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=gold)
+![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=gold)[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=john9803)](https://solved.ac/john9803)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803)](https://github.com/john9803/github-readme-stats)
 
