@@ -1,6 +1,6 @@
 
 ## Hi, Welcome to Salvatore Archiving Github.    
-These are my works, and Hope you got intersest in my works!     
+These are my works, and Hope you got interest in my works!     
 Have a WonderfulDay~!💁
 
 https://john9803.github.io/ 
