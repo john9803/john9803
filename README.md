@@ -1,5 +1,5 @@
 
-## Hi, Welcome to Salvatore Archiving Github.    
+## Hi, Welcome to Salvatore Archiving Github😇    
 These are my works, and Hope you got interest in my works!     
 Have a WonderfulDay~!💁
 
@@ -11,7 +11,7 @@ https://john9803.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803)](https://github.com/john9803/github-readme-stats)
 
-### Tech Stacks
+### 🙈Tech Stacks🙈
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
