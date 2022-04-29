@@ -1,7 +1,7 @@
 
 ## Hi, Welcome to Salvatore Archiving Github😇    
 These are my works, and Hope you got interest in my works!     
-Have a WonderfulDay~!💁
+Have a WonderfulDay~!💁🙈
 
 ( Coming Soon ~~! )
 https://john9803.github.io/ 
