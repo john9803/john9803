@@ -11,7 +11,7 @@ https://john9803.github.io/
 
 ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=john9803&show_icons=true&theme=dark)      
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803)](https://github.com/john9803/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9803&layout=compact)](https://github.com/john9803/github-readme-stats)
 
 ### 🙈Tech Stacks🙈
 <br><br>
