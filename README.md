@@ -1,4 +1,4 @@
-## 🙈 Tech Stacks 🙈 ##
+## 🙈 Stacks 🙈 ##
 
 | **LANGUAGE** |**FRAMEWORK** |
 | :---: | :---: |
