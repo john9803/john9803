@@ -24,13 +24,13 @@
 | KUHAS (Korea University Hardward And Software)    | SW Manager | 2019.03 ~ | C, C++ |
 | LikeLion University | SW Manager in KUS | 2020.03 ~ 2022.07 | Python |
 | ETRI (Human Robot Interaction Research Section) | Intern | 2022.07 ~ 2022.09 | Python, C++ |
-| Hashscraper | SW Programmer | 2022.09 ~  | Ruby, JS, Python  |
+| Hashscraper | SW Programmer | 2022.09 ~ 2024.05 | Ruby, JS, Python  |
 
 
 ##  🗓 CONTACT 🗓 ##
 | **EMAIL** |**PHONE** |
 | :---: | :---: | 
-| john9803@korea.ac.kr | |
+| salvatoreis200@gmail.com |  |
 
 
 
