@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohn9803&count_bg=%2360BDEB&title_bg=%23131212&icon=linux.svg&icon_color=%23E7E7E7&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-## 🙈 Stacks 🙈 ##
+##  Stacks  ##
 
 | **LANGUAGE** |**FRAMEWORK** |
 | :---: | :---: |
@@ -18,7 +18,7 @@
 <br>
 
 
-## 🎢 CAREER 🎢 ##
+## EXPERIENCE ##
 | **BELONGS** |**POSITION** | **DURING** |  **DO WHAT** | 
 | :---: | :---: | :---: | :---: |
 | KUHAS (Korea University Hardward And Software)    | SW Manager | 2019.03 ~ | C, C++ |
@@ -27,7 +27,7 @@
 | Hashscraper | SW Programmer | 2022.09 ~ 2024.05 | Ruby, JS, Python  |
 
 
-##  🗓 CONTACT 🗓 ##
+##   CONTACT  ##
 | **EMAIL** |
 | :---: |
 | salvatoreis200@gmail.com | 
