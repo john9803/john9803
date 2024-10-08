@@ -28,9 +28,9 @@
 
 
 ##  🗓 CONTACT 🗓 ##
-| **EMAIL** |**PHONE** |
-| :---: | :---: | 
-| salvatoreis200@gmail.com |  |
+| **EMAIL** |
+| :---: |
+| salvatoreis200@gmail.com | 
 
 
 
