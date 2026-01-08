@@ -4,8 +4,6 @@
 
 
 #  📝 Infomation  #
-
----
 <img src="https://img.shields.io/badge/salvatoreis200@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>[<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/salvatoreis200)[<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>](https://salvatoreis200.tistory.com)
 
 
@@ -13,7 +11,6 @@
 
 #  📚 Skills  #
 
----
 ### 🛜 Web
 <img src="https://img.shields.io/badge/rubyonrails-CC0000?style=for-the-badge&logo=RubyOnRails&logoColor=lightred"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/StyleSheet-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
